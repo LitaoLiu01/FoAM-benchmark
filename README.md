@@ -45,7 +45,7 @@ If you find our work helpful, please cite us:
         }
 ```
 
-Thank you! If you have any questions about the use of this baseline, please feel free to contact [Litao Liu](mailto:liulitao6688@gmail.com).
+Thank you! If you have any questions about the use of this benchmark, please feel free to contact [Litao Liu](mailto:liulitao6688@gmail.com).
 
 
 ## License
