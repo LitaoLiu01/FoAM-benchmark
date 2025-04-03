@@ -6,11 +6,8 @@ The main body of this dual-arm robot was built by [Yifan Han](https://github.com
 ## Installation
 ```bash
 # Create a Conda environment
-conda create -n foam_benchmark python=3.8
-conda activate foam_benchmark
+conda env create -f environment_foam-benchmark.yaml
 
-# Install other prerequisites
-pip install -r requirements.txt
 ```
 
 ## Scenarios 
