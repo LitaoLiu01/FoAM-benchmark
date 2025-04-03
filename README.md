@@ -8,6 +8,9 @@ The main body of this dual-arm robot was built by [Yifan Han](https://github.com
 # Create a Conda environment
 conda env create -f environment_foam-benchmark.yaml
 
+# Activate the environment
+conda activate foam-benchmark
+
 ```
 
 ## Scenarios 
